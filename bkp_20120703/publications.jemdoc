@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{publications.html}
+= Yu-Wei (Johnny) Chao -- Publications
+
+== Journals
+
+- *Locality-Sensitive Dictionary Learning for Sparse Representation Based Classification*\n
+C.-P. Wei, *Y.-W. Chao*, Y.-R. Yeh, and Y.-C. F. Wang.\n
+/Pattern Recognition/. (under revision)\n
+
+== Conferences
+
+- *Semantic Structure From Motion with Points, Regions, and Objects*\n
+S. Y. Bao, M. Bagra,  *Y.-W. Chao*, S. Savarese.\n
+/Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2012.\n
+\[[publications/bao_cvpr2012_ssfm.pdf pdf]\]\[[publications/bao_cvpr2012_ssfm.bib bibtex]\]
+
+- *Locality-constrained Group Sparse Representation for Robust Face Recognition*\n
+*Y.-W. Chao*,  Y.-R. Yeh,  Y.-W. Chen, Y.-J. Lee, and Y.-C. F. Wang.\n
+/Proceedings of the IEEE International Conference on Image Processing (ICIP)/, 2011.\n
+\[[publications/chao_icip2011_lgsr.pdf pdf]\]\[[publications/chao_icip2011_lgsr_slide.pdf slide]\]\[[publications/chao_icip2011_lgsr.bib bibtex]\]
