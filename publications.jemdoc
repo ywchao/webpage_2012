@@ -3,19 +3,36 @@
 
 == Journals
 
-- *Locality-Sensitive Dictionary Learning for Sparse Representation Based Classification*\n
+~~~
+{}{img_left}{pictures/pr2013.png}{profile picture}{116px}{87px}{}
+*Locality-Sensitive Dictionary Learning for Sparse Representation Based Classification*\n
 C.-P. Wei, *Y.-W. Chao*, Y.-R. Yeh, and Y.-C. F. Wang.\n
 /Pattern Recognition/, Volume 46, Issue 5, May 2013, Pages 1277-1287.\n
 \[[publications/wei_pr2013.pdf pdf]\]\[[publications/wei_pr2013.bib bibtex]\]
+~~~
 
 == Conferences
 
-- *Semantic Structure From Motion with Points, Regions, and Objects*\n
-S. Y. Bao, M. Bagra,  *Y.-W. Chao*, S. Savarese.\n
+~~~
+{}{img_left}{pictures/cvpr2013.png}{profile picture}{116px}{87px}{}
+*Understanding Indoor Scenes using 3D Geometric Phrases*\n
+W. Choi, *Y.-W. Chao*, C. Pantofaru, and S. Savarese.\n
+/Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2013.\n
+*Oral Presentation*
+~~~
+
+~~~
+{}{img_left}{pictures/cvpr2012.png}{profile picture}{116px}{87px}{}
+*Semantic Structure From Motion with Points, Regions, and Objects*\n
+S. Y. Bao, M. Bagra,  *Y.-W. Chao*, and S. Savarese.\n
 /Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2012.\n
 \[[publications/bao_cvpr2012_ssfm.pdf pdf]\]\[[publications/bao_cvpr2012_ssfm.bib bibtex]\]
+~~~
 
-- *Locality-constrained Group Sparse Representation for Robust Face Recognition*\n
+~~~
+{}{img_left}{pictures/icip2011.png}{profile picture}{116px}{87px}{}
+*Locality-constrained Group Sparse Representation for Robust Face Recognition*\n
 *Y.-W. Chao*,  Y.-R. Yeh,  Y.-W. Chen, Y.-J. Lee, and Y.-C. F. Wang.\n
 /Proceedings of the IEEE International Conference on Image Processing (ICIP)/, 2011.\n
 \[[publications/chao_icip2011_lgsr.pdf pdf]\]\[[publications/chao_icip2011_lgsr_slide.pdf slide]\]\[[publications/chao_icip2011_lgsr.bib bibtex]\]
+~~~
