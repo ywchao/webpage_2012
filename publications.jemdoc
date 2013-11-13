@@ -14,6 +14,15 @@ C.-P. Wei, *Y.-W. Chao*, Y.-R. Yeh, and Y.-C. F. Wang.\n
 == Conferences
 
 ~~~
+{}{img_left}{pictures/iciap2013.png}{profile picture}{116px}{87px}{}
+*Layout Estimation of Highly Cluttered Indoor Scenes using Geometric and Semantic Cues*\n
+*Y.-W. Chao*, W. Choi, C. Pantofaru, and S. Savarese.\n
+/Proceedings of the International Conference on Image Analysis and Processing (ICIAP)/, 2013.\n
+*Oral Presentation*; Acceptance rate: 7.9%\n
+\[[publications/chao_iciap2013.pdf pdf]\]\[[http://www.eecs.umich.edu/vision/IndoorHumanActivity/ project]\]\[[publications/chao_iciap2013.bib bibtex]\]
+~~~
+
+~~~
 {}{img_left}{pictures/cvpr2013.png}{profile picture}{116px}{87px}{}
 *Understanding Indoor Scenes using 3D Geometric Phrases*\n
 W. Choi, *Y.-W. Chao*, C. Pantofaru, and S. Savarese.\n
