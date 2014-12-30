@@ -14,6 +14,14 @@ C.-P. Wei, *Y.-W. Chao*, Y.-R. Yeh, and Y.-C. F. Wang.\n
 == Conferences
 
 ~~~
+{}{img_left}{pictures/eccv2014.png}{profile picture}{116px}{87px}{}
+*Discovering Groups of People in Images*\n
+W. Choi, *Y.-W. Chao*, C. Pantofaru, and S. Savarese.\n
+/Proceedings of the European Conference on Computer Vision (ECCV)/, 2014.\n
+\[[publications/choi_eccv2014.pdf pdf]\]\[[http://cvgl.stanford.edu/projects/groupdiscovery/ project]\]\[[publications/choi_eccv2014_supp.pdf supplemental material]\]\[[publications/choi_eccv2014.bib bibtex]\]
+~~~
+
+~~~
 {}{img_left}{pictures/iciap2013.png}{profile picture}{116px}{87px}{}
 *Layout Estimation of Highly Cluttered Indoor Scenes using Geometric and Semantic Cues*\n
 *Y.-W. Chao*, W. Choi, C. Pantofaru, and S. Savarese.\n
