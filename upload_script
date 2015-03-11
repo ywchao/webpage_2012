@@ -1,0 +1,2 @@
+scp -r index.jemdoc index.html publications.jemdoc publications.html ywchao@sftp.itd.umich.edu:~/Public/html/
+scp -r pictures/cvpr2015.png                                         ywchao@sftp.itd.umich.edu:~/Public/html/pictures/
