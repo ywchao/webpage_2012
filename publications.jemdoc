@@ -22,6 +22,14 @@ C.-P. Wei, *Y.-W. Chao*, Y.-R. Yeh, and Y.-C. F. Wang.\n
 == Conferences
 
 ~~~
+{}{img_left}{pictures/iccv2015.png}{profile picture}{116px}{87px}{}
+*HICO: A Benchmark for Recognizing Human-Object Interactions in Images*\n
+*Y.-W. Chao*, Z. Wang, Y. He, J. Wang, and J. Deng.\n
+/Proceedings of the IEEE Internaional Conference on Computer Vision (ICCV)/, 2015.\n
+\[[publications/chao_iccv2015.pdf pdf]\]\[project\]\[[publications/chao_iccv2015_supp.pdf supplementary material]\]\[[publications/chao_iccv2015.bib bibtex]\]
+~~~
+
+~~~
 {}{img_left}{pictures/cvpr2015.png}{profile picture}{116px}{87px}{}
 *Mining Semantic Affordances of Visual Object Categories*\n
 *Y.-W. Chao*, Z. Wang, R. Mihalcea, and J. Deng.\n
