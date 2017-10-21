@@ -6,83 +6,91 @@
 ~~~
 {}{img_left}{pictures/ijcv2015.png}{profile picture}{116px}{87px}{}
 *Indoor Scene Understanding with Geometric and Semantic Contexts*\n
-W. Choi, *Y.-W. Chao*, C. Pantofaru, and S. Savarese.\n
+Wongun Choi, *Yu-Wei Chao*, Caroline Pantofaru, and Silvio Savarese.\n
 /International Journal of Computer Vision (IJCV)/, Volume 112, Issue 2, Pages 204-220, April 2015.\n
-\[[http://link.springer.com/article/10.1007/s11263-014-0779-4 link]\]\[[publications/choi_ijcv2015.bib bibtex]\]
+\[ [http://link.springer.com/article/10.1007/s11263-014-0779-4 link] \]\[ [publications/choi_ijcv2015.bib bibtex] \]
 ~~~
 
 ~~~
 {}{img_left}{pictures/pr2013.png}{profile picture}{116px}{87px}{}
 *Locality-Sensitive Dictionary Learning for Sparse Representation Based Classification*\n
-C.-P. Wei, *Y.-W. Chao*, Y.-R. Yeh, and Y.-C. F. Wang.\n
+Chia-Po Wei, *Yu-Wei Chao*, Yi-Ren Yeh, and Yu-Chiang Frank Wang.\n
 /Pattern Recognition/, Volume 46, Issue 5, Pages 1277-1287, May 2013.\n
-\[[http://www.sciencedirect.com/science/article/pii/S0031320312004980 link]\]\[[publications/wei_pr2013.bib bibtex]\]
+\[ [http://www.sciencedirect.com/science/article/pii/S0031320312004980 link] \]\[ [publications/wei_pr2013.bib bibtex] \]
 ~~~
 
 == Conferences
 
 ~~~
+{}{img_left}{pictures/wacv2018.png}{profile picture}{116px}{92px}{}
+*Learning to Detect Human-Object Interactions*\n
+*Yu-Wei Chao*, Yunfan Liu, Xieyang Liu, Huayi Zeng, and Jia Deng.\n
+/IEEE Winter Conference on Applications of Computer Vision (WACV)/, 2018.\n
+\[ pdf  \]\[  supplementary material \]\[ arXiv \]\[ project \]\[ data \]\[ code \]\[ poster \]\[ bibtex \]
+~~~
+
+~~~
 {}{img_left}{pictures/cvpr2017.png}{profile picture}{116px}{47px}{}
 *Forecasting Human Dynamics from Static Images*\n
-*Y.-W. Chao*, J. Yang, B. Price, S. Cohen, and J. Deng.\n
-/Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2017.\n
-\[[publications/chao_cvpr2017.pdf pdf]\]\[[publications/chao_cvpr2017_supp.pdf supplementary material]\]\[[http://www.umich.edu/~ywchao/image-play/ project]\]\[[https://arxiv.org/abs/1704.03432 arXiv]\]\[[publications/chao_cvpr2017_poster.pdf poster]\]\[[publications/chao_cvpr2017.bib bibtex]\]
+*Yu-Wei Chao*, Jimei Yang, Brian Price, Scott Cohen, and Jia Deng.\n
+/IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2017.\n
+\[ [publications/chao_cvpr2017.pdf pdf] \]\[ [publications/chao_cvpr2017_supp.pdf supplementary material] \]\[ [https://arxiv.org/abs/1704.03432 arXiv] \]\[ [http://www.umich.edu/~ywchao/image-play/ project] \]\[ [publications/chao_cvpr2017_poster.pdf poster] \]\[ [publications/chao_cvpr2017.bib bibtex] \]
 ~~~
 
 ~~~
 {}{img_left}{pictures/iccv2015.png}{profile picture}{116px}{87px}{}
 *HICO: A Benchmark for Recognizing Human-Object Interactions in Images*\n
-*Y.-W. Chao*, Z. Wang, Y. He, J. Wang, and J. Deng.\n
-/Proceedings of the IEEE Internaional Conference on Computer Vision (ICCV)/, 2015.\n
-\[[publications/chao_iccv2015.pdf pdf]\]\[[publications/chao_iccv2015_supp.pdf supplementary material]\]\[[http://www.umich.edu/~ywchao/hico/ project]\]\[[http://napoli18.eecs.umich.edu/public_html/data/hico_20150920.tar.gz data]\]\[[https://github.com/ywchao/hico_benchmark code]\]\[[publications/chao_iccv2015_poster.pdf poster]\]\[[publications/chao_iccv2015.bib bibtex]\]
+*Yu-Wei Chao*, Zhan Wang, Yugeng He, Jiaxuan Wang, and Jia Deng.\n
+/IEEE Internaional Conference on Computer Vision (ICCV)/, 2015.\n
+\[ [publications/chao_iccv2015.pdf pdf] \]\[ [publications/chao_iccv2015_supp.pdf supplementary material] \]\[ [http://www.umich.edu/~ywchao/hico/ project] \]\[ [http://napoli18.eecs.umich.edu/public_html/data/hico_20150920.tar.gz data] \]\[ [https://github.com/ywchao/hico_benchmark code] \]\[ [publications/chao_iccv2015_poster.pdf poster] \]\[ [publications/chao_iccv2015.bib bibtex] \]
 ~~~
 
 ~~~
 {}{img_left}{pictures/cvpr2015.png}{profile picture}{116px}{87px}{}
 *Mining Semantic Affordances of Visual Object Categories*\n
-*Y.-W. Chao*, Z. Wang, R. Mihalcea, and J. Deng.\n
-/Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2015.\n
-\[[publications/chao_cvpr2015.pdf pdf]\]\[[http://www.umich.edu/~ywchao/semantic_affordance/ project]\]\[[http://www.umich.edu/~ywchao/semantic_affordance/data/affordance_data.tar.gz data]\]\[[https://github.com/ywchao/semantic_affordance code]\]\[[publications/chao_cvpr2015_poster.pdf poster]\]\[[publications/chao_cvpr2015.bib bibtex]\]
+*Yu-Wei Chao*, Zhan Wang, Rada Mihalcea, and Jia Deng.\n
+/IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2015.\n
+\[ [publications/chao_cvpr2015.pdf pdf] \]\[ [http://www.umich.edu/~ywchao/semantic_affordance/ project] \]\[ [http://www.umich.edu/~ywchao/semantic_affordance/data/affordance_data.tar.gz data] \]\[ [https://github.com/ywchao/semantic_affordance code] \]\[ [publications/chao_cvpr2015_poster.pdf poster] \]\[ [publications/chao_cvpr2015.bib bibtex] \]
 ~~~
 
 ~~~
 {}{img_left}{pictures/eccv2014.png}{profile picture}{116px}{87px}{}
 *Discovering Groups of People in Images*\n
-W. Choi, *Y.-W. Chao*, C. Pantofaru, and S. Savarese.\n
-/Proceedings of the European Conference on Computer Vision (ECCV)/, 2014.\n
-\[[publications/choi_eccv2014.pdf pdf]\]\[[http://cvgl.stanford.edu/projects/groupdiscovery/ project]\]\[[publications/choi_eccv2014_supp.pdf supplemental material]\]\[[publications/choi_eccv2014.bib bibtex]\]
+Wongun Choi, *Yu-Wei Chao*, Caroline Pantofaru, and Silvio Savarese.\n
+/European Conference on Computer Vision (ECCV)/, 2014.\n
+\[ [publications/choi_eccv2014.pdf pdf] \]\[ [http://cvgl.stanford.edu/projects/groupdiscovery/ project] \]\[ [publications/choi_eccv2014_supp.pdf supplemental material] \]\[ [publications/choi_eccv2014.bib bibtex] \]
 ~~~
 
 ~~~
 {}{img_left}{pictures/iciap2013.png}{profile picture}{116px}{87px}{}
 *Layout Estimation of Highly Cluttered Indoor Scenes using Geometric and Semantic Cues*\n
-*Y.-W. Chao*, W. Choi, C. Pantofaru, and S. Savarese.\n
-/Proceedings of the International Conference on Image Analysis and Processing (ICIAP)/, 2013.\n
+*Yu-Wei Chao*, Wongun Choi, Caroline Pantofaru, and Silvio Savarese.\n
+/International Conference on Image Analysis and Processing (ICIAP)/, 2013.\n
 *Oral Presentation*; Acceptance rate: 7.9%\n
-\[[publications/chao_iciap2013.pdf pdf]\]\[[http://www.eecs.umich.edu/vision/IndoorHumanActivity/ project]\]\[[publications/chao_iciap2013.bib bibtex]\]
+\[ [publications/chao_iciap2013.pdf pdf] \]\[ [http://www.eecs.umich.edu/vision/IndoorHumanActivity/ project] \]\[ [publications/chao_iciap2013.bib bibtex] \]
 ~~~
 
 ~~~
 {}{img_left}{pictures/cvpr2013.png}{profile picture}{116px}{87px}{}
 *Understanding Indoor Scenes using 3D Geometric Phrases*\n
-W. Choi, *Y.-W. Chao*, C. Pantofaru, and S. Savarese.\n
-/Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2013.\n
+Wongun Choi, *Yu-Wei Chao*, Caroline Pantofaru, and Silvio Savarese.\n
+/IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2013.\n
 *Oral Presentation*; Acceptance rate: 3.2% (60/1870)\n
-\[[publications/choi_cvpr2013.pdf pdf]\]\[[http://www.eecs.umich.edu/vision/3DGP/ project]\]\[[publications/choi_cvpr2013_supp.pdf supplemental material]\]\[[publications/choi_cvpr2013.bib bibtex]\]
+\[ [publications/choi_cvpr2013.pdf pdf] \]\[ [http://www.eecs.umich.edu/vision/3DGP/ project] \]\[ [publications/choi_cvpr2013_supp.pdf supplemental material] \]\[ [publications/choi_cvpr2013.bib bibtex] \]
 ~~~
 
 ~~~
 {}{img_left}{pictures/cvpr2012.png}{profile picture}{116px}{87px}{}
 *Semantic Structure From Motion with Points, Regions, and Objects*\n
-S. Y. Bao, M. Bagra,  *Y.-W. Chao*, and S. Savarese.\n
-/Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2012.\n
-\[[publications/bao_cvpr2012_ssfm.pdf pdf]\]\[[publications/bao_cvpr2012_ssfm.bib bibtex]\]
+Sid Yingze Bao, Mohit Bagra,  *Yu-Wei Chao*, and Silvio Savarese.\n
+/IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2012.\n
+\[ [publications/bao_cvpr2012_ssfm.pdf pdf] \]\[ [publications/bao_cvpr2012_ssfm.bib bibtex] \]
 ~~~
 
 ~~~
 {}{img_left}{pictures/icip2011.png}{profile picture}{116px}{87px}{}
 *Locality-constrained Group Sparse Representation for Robust Face Recognition*\n
-*Y.-W. Chao*,  Y.-R. Yeh,  Y.-W. Chen, Y.-J. Lee, and Y.-C. F. Wang.\n
-/Proceedings of the IEEE International Conference on Image Processing (ICIP)/, 2011.\n
-\[[publications/chao_icip2011_lgsr.pdf pdf]\]\[[publications/chao_icip2011_lgsr_slide.pdf slide]\]\[[publications/chao_icip2011_lgsr.bib bibtex]\]
+*Yu-Wei Chao*,  Yi-Ren Yeh,  Yu-Wen Chen, Yuh-Jye Lee, and Yu-Chiang Frank Wang.\n
+/IEEE International Conference on Image Processing (ICIP)/, 2011.\n
+\[ [publications/chao_icip2011_lgsr.pdf pdf] \]\[ [publications/chao_icip2011_lgsr_slide.pdf slide] \]\[ [publications/chao_icip2011_lgsr.bib bibtex] \]
 ~~~
