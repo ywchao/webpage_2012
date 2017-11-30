@@ -26,7 +26,7 @@ Chia-Po Wei, *Yu-Wei Chao*, Yi-Ren Yeh, and Yu-Chiang Frank Wang.\n
 *Learning to Detect Human-Object Interactions*\n
 *Yu-Wei Chao*, Yunfan Liu, Xieyang Liu, Huayi Zeng, and Jia Deng.\n
 /IEEE Winter Conference on Applications of Computer Vision (WACV)/, 2018.\n
-\[ pdf  \]\[  supplementary material \]\[ arXiv \]\[ project \]\[ data \]\[ code \]\[ poster \]\[ bibtex \]
+\[ pdf  \]\[  supplementary material \]\[ arXiv \]\[ [http://www.umich.edu/~ywchao/hico/ project] \]\[ [http://napoli18.eecs.umich.edu/public_html/data/hico_20160224_det.tar.gz data] \]\[ [https://github.com/ywchao/ho-rcnn code] \]\[ [https://github.com/ywchao/hoi-det-ui UI code] \]\[ poster \]\[ [publications/chao_wacv2018.bib bibtex] \]
 ~~~
 
 ~~~
